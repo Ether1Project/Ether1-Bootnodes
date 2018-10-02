@@ -6,4 +6,4 @@ Please use these bootnodes to help sync the Ether-1 network
 
 Where do i put the static-nodes.json file?
 
-/geth/static-nodes.json
+/Ether1/static-nodes.json
